@@ -57,7 +57,7 @@ Siapin alat dan bahannya.
 > pkg install bash -y
 > pkg install mc -y
 > git clone https://github.com/h3h3boii/SuparminWA
-> cd babybot
+> cd SuparminWA
 > bash install.sh
 > npm start
 > SCAN DAH BRO MHEHE EZ KAN:V
