@@ -121,10 +121,9 @@ exports.uangkau = (pushname, sender, uangkau) => {
 
 exports.donasi = () => {
 return`*DONASI KAK*
-Pulsa : 0812-1444-1027
-Gopay : 0855-5924-0360
-Dana : 0855-5924-0360
-Saweria : https://saweria.co/ramlangans
+Pulsa : 0812-1726-9309
+Gopay : 0812-1726-9309
+Saweria : https://saweria.co/IGI1
 
 Donasi supaya bot terus update & Aktif`
 }
@@ -136,7 +135,7 @@ return`🔰 -----[ 「 *IKLAN ${botName}* 」 ]----- 🔰
 ◯ *SEWA : 25K/GRUP (BULAN)*
 ◯ *BUAT : 100K (BISA JADI OWNER)*
 ◯ *PEMBAYARAN BISA MELALUI :*
-◯ *OVO, GOPAY, DANA, PULSA+10K*
+◯ *OVO, GOPAY, PULSA+10K*
 ──────────────────────────────
 ◯ *KEUNTUNGAN SEWA BOT :*
 ◯ *1. BISA MEMASUKAN BOT KE GROUP*
