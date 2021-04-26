@@ -56,7 +56,7 @@ Siapin alat dan bahannya.
 > pkg install git -y
 > pkg install bash -y
 > pkg install mc -y
-> git clone https://github.com/Ramlan404/babybot
+> git clone https://github.com/h3h3boii/SuparminWA
 > cd babybot
 > bash install.sh
 > npm start
